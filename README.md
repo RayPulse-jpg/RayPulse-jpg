@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá! Eu sou o Victor 👋
 
-<!--
-**RayPulse-jpg/RayPulse-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** (1º semestre), apaixonado por tecnologia e focado em construir uma carreira sólida **Full Stack**.
 
-Here are some ideas to get you started:
+Atualmente, trabalho como Digitador. Essa experiência diária me deu uma base forte em atenção aos detalhes, agilidade e foco na precisão — habilidades que agora estou levando para a escrita dos meus primeiros códigos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Meu Foco Atual
+* Finalizar meu curso de Análise e Desenvolvimento de Sistemas.
+* Melhorar meu conhecimento na Lógica de Programação e nos fundamentos do **Java**.
+* Construindo uma base teórica sólida antes de iniciar meus primeiros projetos práticos.
+* Finalizar meus projetos ativos atualmente.
+
+### 🛠️ O que estou aprendendo
+* Java, JavaScript, C# e HTML
+* Lógica de Programação
+
+### ⚡ Um pouco mais sobre mim
+* Gosto de fazer projetos Vibe Coding no tempo livre.
+* Um cafézinho quentinho é bom demais.
+* E sempre separo um tempo para acompanhar um bom anime, como Jujutsu Kaisen.
+
+### 📫 Como me encontrar
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/victor-oliveira-andrade-463062298/)
+* **E-mail:** voctir.vielario@gmail.com

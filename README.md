@@ -21,3 +21,4 @@ Atualmente, trabalho como Digitador. Essa experiência diária me deu uma base f
 ### 📫 Como me encontrar
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/victor-oliveira-andrade-463062298/)
 * **E-mail:** voctir.vielario@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raypulse-jpg&label=Profile%20views&color=ff8624&style=flat" alt="raypulse-jpg" /> </p>
